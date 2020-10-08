@@ -1,0 +1,75 @@
+.c-hero {
+  overflow: hidden;
+  position: relative;
+  z-index: 500;
+  padding-top: 7%;
+  padding-bottom: 7%;
+  margin-bottom: 100px;
+  width: 100%;
+  height: 20%;
+  background-image: linear-gradient(
+    to bottom,
+    #e8d1e4,
+    #f0cfdf,
+    #f7cdd8,
+    #fcccd0,
+    #ffccc6,
+    #ffcdbc,
+    #ffcfb0,
+    #ffd2a6,
+    #ffd998,
+    #ffe28a,
+    #ffec7c,
+    #f9f871
+  );
+}
+
+.c-hero__box {
+  position: relative;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.c-hero__title {
+  color: #323232;
+  font-family: "BioRhyme", serif;
+  font-size: 2.5em;
+  letter-spacing: -1px;
+  margin: 0;
+  max-width: 90%;
+  text-align: center;
+}
+
+.d-block {
+  justify-content: space-around;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  border: 1px solid #ffdd8b;
+  background-color: #e8d1e4;
+}
+.card-deck {
+  justify-content: space-around;
+  padding: 10px;
+}
+.card {
+  justify-content: space-around;
+  width: 80%;
+  height: 80%;
+  margin: auto;
+  border: solid 2px rgb(180, 212, 212);
+  background-color: rgb(207, 247, 247);
+}
+.card-info {
+  text-align: center;
+  line-height: 1.25;
+  margin: 20px;
+}
+.card-info a {
+  color: #323232;
+  font-weight: bold;
+}
+.card-info a:hover {
+  color: #f9f871;
+  text-decoration: underline;
+}
