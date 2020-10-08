@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Tari38/daily-ui-designsstatic/css/main.520abf3c.chunk.css",
+    "main.js": "/Tari38/daily-ui-designsstatic/js/main.d482495d.chunk.js",
+    "main.js.map": "/Tari38/daily-ui-designsstatic/js/main.d482495d.chunk.js.map",
+    "runtime-main.js": "/Tari38/daily-ui-designsstatic/js/runtime-main.f7ff5454.js",
+    "runtime-main.js.map": "/Tari38/daily-ui-designsstatic/js/runtime-main.f7ff5454.js.map",
+    "static/js/2.f4e61a12.chunk.js": "/Tari38/daily-ui-designsstatic/js/2.f4e61a12.chunk.js",
+    "static/js/2.f4e61a12.chunk.js.map": "/Tari38/daily-ui-designsstatic/js/2.f4e61a12.chunk.js.map",
+    "index.html": "/Tari38/daily-ui-designsindex.html",
+    "precache-manifest.94c6ee9efcfcf32699bedd1c3b53d1a9.js": "/Tari38/daily-ui-designsprecache-manifest.94c6ee9efcfcf32699bedd1c3b53d1a9.js",
+    "service-worker.js": "/Tari38/daily-ui-designsservice-worker.js",
+    "static/css/main.520abf3c.chunk.css.map": "/Tari38/daily-ui-designsstatic/css/main.520abf3c.chunk.css.map",
+    "static/js/2.f4e61a12.chunk.js.LICENSE.txt": "/Tari38/daily-ui-designsstatic/js/2.f4e61a12.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/Tari38/daily-ui-designsstatic/media/1.b2a86bd0.png",
+    "static/media/2.png": "/Tari38/daily-ui-designsstatic/media/2.cea04612.png",
+    "static/media/3.png": "/Tari38/daily-ui-designsstatic/media/3.943a2c74.png",
+    "static/media/4.png": "/Tari38/daily-ui-designsstatic/media/4.59152822.png",
+    "static/media/signupImg1.png": "/Tari38/daily-ui-designsstatic/media/signupImg1.8140f7f8.png",
+    "static/media/signupImg2.png": "/Tari38/daily-ui-designsstatic/media/signupImg2.7dfe4076.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ff5454.js",
+    "static/js/2.f4e61a12.chunk.js",
+    "static/css/main.520abf3c.chunk.css",
+    "static/js/main.d482495d.chunk.js"
+  ]
+}
