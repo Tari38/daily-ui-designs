@@ -1,4 +1,5 @@
 import React from "react";
+import StaticImg1 from "../design-modules/static/images/Header.png";
 import SignupImg1 from "../design-modules/signups/images/signupImg1.png";
 import BoardingPass2 from "../design-modules/tickets/images/2.png";
 import CheckoutImg1 from "../design-modules/checkouts/images/1.png";
@@ -24,6 +25,21 @@ export default function Home() {
         </div>
 
         <div className="card-deck">
+
+          <Card className="card active">
+            <img
+              src={StaticImg1}
+              className="d-block w-100"
+              alt="static img 1"
+            />
+            <div className="card-info">
+              <h5>
+                Static Webpage Designs
+              </h5>
+            </div>
+          </Card>
+
+
           <Card className="card active">
             <img
               src={SignupImg1}

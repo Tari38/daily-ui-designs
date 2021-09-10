@@ -21,6 +21,9 @@ function Nav() {
 
               <DropdownMenu right className="dropdown-menu">
                 <DropdownItem>
+                  <Link className="dropdown-item" to="/components/design-modules/static/StaticPages">Webpage Designs</Link>
+                </DropdownItem>
+                <DropdownItem>
                   <Link className="dropdown-item" to="/components/design-modules/signups/Signups">Signups</Link>
                   </DropdownItem>
                 <DropdownItem>
