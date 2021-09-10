@@ -18,7 +18,7 @@ export default function Portfolio() {
 
           <CardDeck className="card-deck">
             <Card className="card">
-              <a href="/components/design-modules/static/Webpage"><CardImg src={Webpage}></CardImg>Webpage Designs</a>
+              <a href="/components/design-modules/static/Webpage"><CardImg src={Webpage}></CardImg>Static Webpage Designs</a>
             </Card>
 
             <Card className="card">

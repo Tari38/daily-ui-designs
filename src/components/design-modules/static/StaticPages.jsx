@@ -7,7 +7,7 @@ import StaticImg4 from "./images/Contact.png";
 
 import "./StaticPages.css";
 
-export default class StaticPages extends Component() {
+export default class StaticPages extends Component {
 	render() {
   return (
   <>
