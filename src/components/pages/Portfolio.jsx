@@ -40,7 +40,7 @@ export default function Portfolio() {
 
           <Card className="card">
             <CardBody className="card-info">
-              <a href="/design-modules/statics/Webpage">Static Website Designs</a>
+              <a href="/design-modules/static/StaticPages">Static Website Designs</a>
             </CardBody>
           </Card>
 
